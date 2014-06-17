@@ -1,9 +1,9 @@
 === BuddyForms Hook Fields ===
 Contributors: svenl77
 Tags: buddypress, user, members, profiles, custom post types, taxonomy, frontend posting, frontend editing,hook fields, custom fields, post meta
-Requires at least: WordPress 3.x, BuddyPress 1.7.x
-Tested up to: WordPress 3.9, BuddyPress 2.x
-Stable tag: 1.0
+Requires at least: WordPress 3.x
+Tested up to: WordPress 3.9.1
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -69,6 +69,9 @@ Check it out at http://buddyforms.com
 
 
 == Changelog ==
+
+= 1.0.1 =
+Spelling Corrections
 
 = 1.0 =
 final 1.0 version
